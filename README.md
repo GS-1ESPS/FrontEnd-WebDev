@@ -1,4 +1,4 @@
-# GS 2025 - FrontEnd & WebDev 
+# GS 2025 - FrontEnd
 ## NOME DO PROJETO
  
 ## Integrantes 1ESPS
@@ -16,11 +16,6 @@ XX
 - XX
  
 ## Detalhes do Projeto
-### Front End
-XX
- 
-### Web Dev 
-XX
  
 ## Conclusão
 XX
